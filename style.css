@@ -17,6 +17,9 @@ Tags: paolinopaperino
 sito del villaggio
 */
 
-body {
-    background-color: aquamarine;
+header {
+    width: 100vw;
+    height: 25vw;
+    background: #44aa22;
+    border: 1px solid black;
 }
