@@ -25,6 +25,8 @@ get_header(); ?>
 	</header><!-- .page-header -->
 <?php endif; ?>
 
+
+
 <?php
 if ( have_posts() ) {
 
@@ -45,4 +47,8 @@ if ( have_posts() ) {
 
 }
 
+
 get_footer();
+
+
+
