@@ -8,6 +8,7 @@
  * E.g., it puts together the home page when no home.php file exists.
  * 
  * Ciao come va?
+ * io sono alessandro
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
