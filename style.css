@@ -17,6 +17,7 @@ Tags: paolinopaperino
 sito del villaggio
 */
 
+<<<<<<< HEAD
 
 #head {
 
@@ -25,4 +26,8 @@ sito del villaggio
     background: #44aa22;
     border: 1px solid black;
 
+=======
+.titolo{
+    color: aqua;
+>>>>>>> dcb86ae0ea281fae10c53bce341b572694e51582
 }
