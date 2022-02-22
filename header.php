@@ -9,4 +9,6 @@
 </head>
 <body>
 
-    <div> ... chiamare funzione wordpress che stampa il menù ... </div>
+<?php 
+        wp_nav_menu(array('fallback_cb' => '', 'menu' => 'Menu principale', 'container' => 'nav', ));
+        ?>
