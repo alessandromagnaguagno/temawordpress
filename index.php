@@ -8,8 +8,6 @@ if ( have_posts() ) {
 
 	// Load posts loop.
 	while (have_posts()) {
-		//$qwe = get_the_post();
-		//echo $qwe;
 		the_post();
 	}
 
