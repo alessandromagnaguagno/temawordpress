@@ -1,15 +1,37 @@
-.menu-principale-container ul {
-    background-color: aqua;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap:20px;
-    list-style-type: none;
-    padding: 10px;
+
+
+.menu-principale-container{
+    background-color: #FFF2E7;
+    padding: 40px 0 0 0;
 }
 
+.menu-principale-container ul {
+
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    gap: 35px;
+    list-style-type: none;
+    margin-right: 70px;
+    
+  
+}
+
+.menu-principale-container li{
+}
 
 .menu-principale-container li a {
     text-decoration: none;
     color: black;
+    font-size: 16px;
+    
+}
+
+#menu-item-65{
+
+    color: #FFF2E7;
+    background-color: #2F6AAD;
+    padding: 13px 17px 13px 17px;
+    border-radius: 50px;
+
 }
