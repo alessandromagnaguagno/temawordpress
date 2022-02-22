@@ -32,3 +32,8 @@ if ( ! function_exists( 'sostrento_styles' ) ) :
 endif;
 
 add_action( 'wp_enqueue_scripts', 'sostrento_styles' );
+
+function wpb_custom_new_menu() {
+  register_nav_menu('my-custom-menu',__( 'My Custom Menu' ));
+}
+add_action( 'init', 'wpb_custom_new_menu' );
