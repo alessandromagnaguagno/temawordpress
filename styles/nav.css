@@ -1,0 +1,16 @@
+.menu-principale-container {
+    background-color: aqua;
+    list-style-type: none;
+    padding: 10px;
+}
+
+.menu-principale-container li {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.menu-principale-container li a {
+    text-decoration: none;
+    color: black,
+}

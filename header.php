@@ -10,5 +10,10 @@
 <body>
 
 <?php 
-        wp_nav_menu(array('fallback_cb' => '', 'menu' => 'Menu principale', 'container' => 'nav', ));
+        wp_nav_menu(array(
+            'fallback_cb' => '', 
+            'menu' => 'menu-principale', 
+            'container' => 'nav', 
+            'container_class' => 'menu-principale-container'
+        ));
         ?>
