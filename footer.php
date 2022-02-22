@@ -1,6 +1,6 @@
         <footer>
 
-            FOOTER
+
 
         </footer>
 

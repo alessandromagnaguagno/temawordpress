@@ -9,4 +9,4 @@
 </head>
 <body>
 
-    <nav>NAV</nav>
+    <div> ... chiamare funzione wordpress che stampa il menù ... </div>
