@@ -19,6 +19,6 @@ the_content();
 
 <?php
 
-get_footer();
+get	_footer();
 
 ?>
