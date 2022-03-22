@@ -30,6 +30,10 @@ get_header();
 			<a href="">Entra nel Villaggio</a>
 		</p>
 
+		<div>
+			<p>prova testo</p>
+		</div>
+
 		<!--qua ci deve andare la curva colorata-->
 	</div>
 
